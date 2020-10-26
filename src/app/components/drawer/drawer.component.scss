@@ -1,0 +1,17 @@
+.drawer {
+    position: absolute;
+    box-shadow: rgba($color: #000000, $alpha: .12) 0px 4px 16px;
+    width: 100%;
+    height: 80vh;;
+    bottom: calc(-76vh + env(safe-area-inset-bottom));
+    border-radius: 20px;
+    z-index: 11;
+    background-color: #ffffff;
+}
+
+.drawer-pull {
+    background-color: #cccccc;
+    height: 4px; 
+    width: 60px;
+    border-radius: 2px;
+}
