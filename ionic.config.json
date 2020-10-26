@@ -1,0 +1,7 @@
+{
+  "name": "academyDrawer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
